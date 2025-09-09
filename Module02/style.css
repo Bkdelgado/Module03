@@ -59,7 +59,7 @@ article p {
 
 /* Highlighted Section */
 section {
-  background-color: #e6f2ff;
+  background-color: #66f138;
   border-left: 20px solid #2cb000;
   padding: 15px;
   margin-top: 30px;
@@ -75,4 +75,5 @@ footer {
   padding-top: 10px;
   text-align: center;
 }
+
 
