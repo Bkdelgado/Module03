@@ -31,6 +31,7 @@ header {
   padding: 15px;
   font-size: 0.95em;
   text-align: right;
+   color: solid #2cb000
 }
 
 /* Main Headline*/
@@ -58,7 +59,7 @@ article p {
 
 /* Highlighted Section */
 section {
-  background-color: #e6f2ff;
+  background-color: #66f138;
   border-left: 20px solid #2cb000;
   padding: 15px;
   margin-top: 30px;
@@ -74,3 +75,5 @@ footer {
   padding-top: 10px;
   text-align: center;
 }
+
+
