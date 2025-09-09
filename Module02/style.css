@@ -1,0 +1,76 @@
+/* Base Styling */
+body {
+  font-family: Georgia, serif;
+  background-color: #ffffff;
+  color: #000;
+  margin: 40px auto;
+  max-width: 800px;
+  line-height: 1.6;
+}
+
+/* Header (Release Date) */
+header {
+  font-size: 0.9em;
+  border: 2px solid #000;
+  color: #444;
+  margin-bottom: 20px;
+  font-style: italic;
+  text-align: center;
+}
+
+/* Container for aside and headline */
+.top-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+}
+/* Contact Info */
+ aside {
+  flex: 1;
+  padding: 15px;
+  font-size: 0.95em;
+  text-align: right;
+}
+
+/* Main Headline*/
+ h1 {
+  flex: 2;
+  font-size: 1.8em;
+  color: #0e1114; 
+  text-align: left;
+}
+
+/* Subheadline */
+h2 {
+  font-size: 1.2em;
+  color: #333;
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+/* Article Paragraphs */
+article p {
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+/* Highlighted Section */
+section {
+  background-color: #e6f2ff;
+  border-left: 20px solid #2cb000;
+  padding: 15px;
+  margin-top: 30px;
+  font-size: 0.95em;
+}
+
+/* Footer */
+footer {
+  margin-top: 40px;
+  font-size: 0.85em;
+  color: #555;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+  text-align: center;
+}
